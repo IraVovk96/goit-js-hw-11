@@ -7,7 +7,6 @@ import SimpleLightbox from "simplelightbox";
 import "simplelightbox/dist/simple-lightbox.min.css";
 import { hideLoader } from "../main";
 
-
 export const card = document.querySelector(".gallery");
 
 export function renderImages(arr) {
